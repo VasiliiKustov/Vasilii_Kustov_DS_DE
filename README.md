@@ -1,5 +1,5 @@
 # VK_portfolio
-These projects were completed in the course of training at Yandex.Practicum, a profession "Data Science Specialist" and "Data Engineer".
+"Data Science Specialist" - DS and "Data Engineer" - DE projects.
 
 ***DS***
 | Project | Description | Libraries | Topic |
